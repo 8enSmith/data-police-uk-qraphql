@@ -21,6 +21,12 @@ And to run the GraphQL server run:
 npm run build
 ```
 
+Note that the code has been formatted using Prettiers rules. To get the code prettified (sic) run:
+
+```sh
+npm run prettier
+```
+
 The GraphQL playground can then be accessed at:
 
 http://localhost:4000/
