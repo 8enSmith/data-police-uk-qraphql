@@ -1,1 +1,1 @@
-GraphQL wrapper aroung the Police API
+GraphQL wrapper around the Police API
