@@ -15,7 +15,7 @@
     "graphql"
   ],
   "dependencies": {
-    "apollo-server": "^2.0.5",
+    "apollo-server": "^2.25.3",
     "axios": "^0.18.0",
     "graphql": "^0.13.2"
   },
